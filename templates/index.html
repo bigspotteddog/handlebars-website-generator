@@ -1,0 +1,15 @@
+{{> html}}
+  <head>
+{{> meta-header}}
+    <title>Red, White & Blue</title>
+{{> css}}
+  </head>
+  <body>
+    <h1>Schedule</h1>
+    {{#items}}
+      <h2>{{date}}</h2>
+      {{#items}}<p>{{name}}, {{event}} - {{time}}</p>{{/items}}
+    {{/items}}
+{{> js}}
+  </body>
+</html>

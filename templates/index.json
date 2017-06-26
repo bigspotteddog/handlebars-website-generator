@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+        date: "Saturday, July 1",
+        items: [
+            {
+                name: "Gabi",
+                event: "Freeskate Gold",
+                time: "4:32 PM"
+            },
+            {
+                name: "Ashley",
+                event: "Freeskate Gold",
+                time: "4:35 PM"
+            },
+            {
+                name: "Ashley",
+                event: "Drama Spotlight FS6",
+                time: "5:45 PM"
+            },
+            {
+                name: "Gabi",
+                event: "Artistic FS6",
+                time: "7:27 PM"
+            },
+            {
+                name: "Zoe",
+                event: "Artistic FS6",
+                time: "7:27 PM"
+            }
+        ]
+    },
+    {
+        date: "Sunday, July 2",
+        items: [
+            {
+                name: "Zoe",
+                event: "Freeskate Gold",
+                time: "9:07 AM"
+            },
+            {
+                name: "Vivi",
+                event: "Freeskate Silver",
+                time: "9:39 AM"
+            },
+            {
+                name: "Vivi",
+                event: "Light Entertainment Spotlight FS4",
+                time: "12:35 PM"
+            },
+            {
+                name: "Cava Sisters",
+                event: "4 Person Jump Team Gold",
+                time: "1:30 PM"
+            },
+            {
+                name: "Cava Sisters",
+                event: "4 Person Spin Team Gold",
+                time: "1:38 PM"
+            }
+        ]
+    }
+  ]
+}
+
+
+Saturday, July 1:
+
+Gabi, Freeskate Gold - 4:32 pm
+Ashley, Freeskate Gold - 4:35 pm
+Ashley, Drama Spotlight FS6 - 5:45 pm
+Gabi, Artistic FS6 - 7:27 pm
+Zoe, Artistic FS6 - 7:27 pm
+
+Sunday, July 2:
+
+Zoe, Freeskate Gold - 9:07 am
+Vivi, Freeskate Silver - 9:39 am
+Vivi, Light Entertainment Spotlight FS4 - 12:35 pm
+Cava Sisters, 4 Person Jump Team Gold - 1:30 pm
+Cava Sisters, 4 Person Spin Team Gold - 1:38 pm
