@@ -3,7 +3,7 @@
 ## Run the template server:
 
 ```
-$ java -jar handlebars-proto-4.0.5.jar -sx .html -d templates
+$ java -jar handlebars-proto-4.0.5.jar -sx .html -d <template folder>
 ```
 
 ## Generate the website to a folder:
